@@ -1,0 +1,9 @@
+# Ignore build directories
+build/
+
+# Ignore Qt Creator user settings
+*.pro.user
+
+# Ignore other generated files
+*.o
+*.moc
